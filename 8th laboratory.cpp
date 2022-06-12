@@ -3,7 +3,7 @@
 #include<string>
 #include<math.h>
 using namespace std;
-class University {
+class School {
 public:
     struct fac 
     { 
